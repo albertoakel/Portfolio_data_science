@@ -82,14 +82,15 @@ This dataset consists of collecting the history and current data of all the most
 Sou corredor de longas distâncias e desenvolvo soluções próprias para analisar minhas métricas de desempenho.  
 O projeto **Run Metrics Dashboard** é um **dashboard interativo em Streamlit** voltado à análise de **pace, frequência cardíaca, altimetria e zonas de esforço**.
 
-📊 Teste o protótipo: [runningzones-tester.streamlit.app](https://runningzones-tester.streamlit.app/)
+▶️ Teste o protótipo: [runningzones-tester.streamlit.app](https://runningzones-tester.streamlit.app/)
+
 ---
 ## 🔊 Belém Silenciosa — Mapa Colaborativo do Ruído Urbano
 
 Belém Silenciosa é um projeto de mapa interativo para registrar e visualizar pontos de poluição sonora na cidade de Belém (PA).
 A ferramenta transforma relatos individuais em dados coletivos, úteis para análise acadêmica e conscientização pública.
 
-📊 Teste o protótipo: [barulhobelem.streamlit.streamlit.app](https://barulhobelem.streamlit.app/)
+▶️ Teste o protótipo: [barulhobelem.streamlit.streamlit.app](https://barulhobelem.streamlit.app/)
 
 ---
 ## 🩸 Modelagem de Doenças Endêmicas — Modelos Compartimentais
@@ -124,3 +125,8 @@ Collaborative urban noise mapping tool designed to crowdsource sound pollution r
 ### Endemic Models
 
 Collection of classical and extended compartmental models (SIR, SEIR, SEIARD) for simulating and fitting endemic scenarios.
+
+## 📜 Licença
+
+Distribuído sob a [Licença MIT](LICENSE).  
+Você pode usar, modificar e compartilhar com os devidos créditos.
