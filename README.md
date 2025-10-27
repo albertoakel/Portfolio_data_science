@@ -36,9 +36,12 @@ Previsão de preços de imóveis residenciais com técnicas de regressão.
 ## Brazilian Payment Methods
 
 The "Brazilian Payment Methods" dataset provides comprehensive monthly statistics on payment transactions in Brazil in its various forms, sourced from the Banco Central do Brasil (Banco Central do Brasil). This dataset is invaluable for researchers, analysts and policymakers interested in understanding the dynamics of payment methods in Brazil's financial ecosystem.
-It is possible to follow the evolution of different payment methods over time, such as the rise of PIX in contrast to the decline of methods such as DOC. This allows for a detailed analysis of how the adoption and use of different payment instruments has changed over the years
+It is possible to follow the evolution of different payment methods over time, such as the rise of PIX in contrast to the decline of methods such as DOC. This allows for a detailed analysis of how the adoption and use of different payment instruments has changed over the years.
 
-link: https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods/data
+[more]( https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods/data)
+
+
+link:
 ---
 ## Ocorrências Aeronáuticas na Aviação Civil Brasileira
 O governo brasileiro disponibiliza vários datasets sobre os principais órgãos do governo (como ANP, FAB, Anatel, Anvisa, entre outros) através do dados.gov.br, o que também é feito pelo governo dos Estados Unidos no data.gov, pelo Canadá em open.canada.ca e por vários outros países.
@@ -48,23 +51,31 @@ Uma dessas bases é a de ocorrências aeronáuticas notificadas ao CENIPA (Centr
 Como os dados estão organizados na forma de tabelas que se relacionam (como mostrado abaixo), essa é uma ótima oportunidade para apresentar sua capacidade de relacionar tabelas (utilizando o merge por exemplo), agregar informações, utilizar Pareto para buscar principais ofensores e até até analisar como essas ocorrências estão se comportando no tempo (tem aumentado? diminuido? alguma ocorrência específica merece atenção?) já que temos dados de 2010 a 2021.
 
 Se você quiser avançar ainda mais nessa análise, você pode utilizar o sqlite3 para criar sua própria estrutura de dados e utilizar o SQL para tratar essa base e provar o seu conhecimento não só em Ciência de Dados como também em SQL.
-https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
+
+[more]( https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira)
+
+
 ---
 ## Berlin marathon data analyss
 
 Berlin marathon data
-Finish times and weather conditions in marathons from 1974 to 2019https://www.kaggle.com/datasets/aiaiaidavid/berlin-marathons-data
+Finish times and weather conditions in marathons from 1974 to 2019h
+
+[more]( http://www.kaggle.com/datasets/aiaiaidavid/berlin-marathons-data)
 
 ---
 ## TWO_CENTURIES_OF_UM_RACES
 This dataset contains information on long-distance running events held in various places, including event dates, names, participant counts, athlete performance times, age categories, speeds, and birth years. It provides insights into the demographic and performance characteristics of urban marathons over two centuries.
 
-Exploring Trends and Patterns in Marathon Data
-https://www.kaggle.com/datasets/fatihyavuzz/two-centuries-of-um-races
+[more]( https://www.kaggle.com/datasets/fatihyavuzz/two-centuries-of-um-races)
+
+
 ---
 ## Brazilian Soccer Database
 This dataset consists of collecting the history and current data of all the most important competitions that Brazilian teams compete, the principal competitions are
-https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro
+
+[more]( https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro)
+
 ---
 ## 🏃‍♂️ Dashboard de Desempenho para Corrida
 
