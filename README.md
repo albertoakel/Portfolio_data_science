@@ -32,6 +32,13 @@ Previsão de preços de imóveis residenciais com técnicas de regressão.
 * ### Brazilian E-Commerce Public Dataset by Olist
 
 ---
+## Análise de Rotatividade de Clientes de Cartão de Crédito 🏦
+
+A retenção de clientes é um dos maiores desafios do setor financeiro.  
+A base **Credit Card Customers** contém informações demográficas, comportamentais e de relacionamento de clientes com um banco emissor de cartões de crédito.  
+
+A análise desses dados permite identificar padrões associados à **rotatividade de clientes (churn)** — isto é, quem deixou de ser cliente.  
+Compreender esses padrões é essencial para antecipar desligamentos e orientar ações de fidelização, como ofertas personalizadas, revisão de limites ou programas de pontos.  
 
 ## Brazilian Payment Methods 💳
 
