@@ -40,6 +40,8 @@ A base **Credit Card Customers** contém informações demográficas, comportame
 A análise desses dados permite identificar padrões associados à **rotatividade de clientes (churn)** — isto é, quem deixou de ser cliente.  
 Compreender esses padrões é essencial para antecipar desligamentos e orientar ações de fidelização, como ofertas personalizadas, revisão de limites ou programas de pontos.  
 
+[more]( https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+
 ## Brazilian Payment Methods 💳
 
 The "Brazilian Payment Methods" dataset provides comprehensive monthly statistics on payment transactions in Brazil in its various forms, sourced from the Banco Central do Brasil (Banco Central do Brasil). This dataset is invaluable for researchers, analysts and policymakers interested in understanding the dynamics of payment methods in Brazil's financial ecosystem.
