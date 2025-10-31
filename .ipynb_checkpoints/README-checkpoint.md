@@ -12,7 +12,7 @@ Neste portfólio, apresento projetos desenvolvidos a partir de problemas reais, 
 
 ---
 
-## 📚 [Coleção de Projetos Kaggle](https://github.com/albertoakel/Kaggle) 
+## Coleção de Projetos Kaggle 📚 
 
 Este repositório reúne uma coleção curada de projetos baseados em **desafios e datasets do Kaggle**.  
 Cada projeto abrange etapas de **análise exploratória (EDA)**, **modelagem preditiva**, **avaliação de desempenho**, **visualizações** e **interpretação de resultados**.
@@ -25,14 +25,14 @@ Cada diretório contém:
 - 📓 Notebooks Jupyter e scripts Python organizados  
 - 📝 Relatórios com insights e reflexões  
 
-* ### [House Prices - Advanced Regression Techniques](https://github.com/albertoakel/Kaggle/tree/master/HousePrices)
+* ### House Prices - Advanced Regression Techniques
 Previsão de preços de imóveis residenciais com técnicas de regressão.  
 **Última pontuação:** *[inserir quando disponível]*  
 * ### Titanic - Machine Learning from Disaster
 * ### Brazilian E-Commerce Public Dataset by Olist
 
 ---
-## 🏦 [Análise de Rotatividade de Clientes de Cartão de Crédito](https://github.com/albertoakel/Predict_Churning_CC) 
+## Análise de Rotatividade de Clientes de Cartão de Crédito 🏦
 
 A retenção de clientes é um dos maiores desafios do setor financeiro.  
 A base **Credit Card Customers** contém informações demográficas, comportamentais e de relacionamento de clientes com um banco emissor de cartões de crédito.  
