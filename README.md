@@ -46,7 +46,7 @@ Compreender esses padrões é essencial para antecipar desligamentos e orientar 
 
 [more]( https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 ---
-##  Dashboard de Desempenho para Corrida 🏃
+##  🏃 [Dashboard de Desempenho para Corrida](https://github.com/albertoakel/RunningZones)
 
 Sou corredor de longas distâncias e desenvolvo soluções próprias para analisar minhas métricas de desempenho.  
 O projeto **Run Metrics Dashboard** é um **dashboard interativo em Streamlit** voltado à análise de **pace, frequência cardíaca, altimetria e zonas de esforço**.
@@ -54,7 +54,7 @@ O projeto **Run Metrics Dashboard** é um **dashboard interativo em Streamlit** 
 ▶️ Teste o protótipo: [runningzones-tester.streamlit.app](https://runningzones-tester.streamlit.app/)
 
 ---
-## 🔊 Belém Silenciosa — Mapa Colaborativo do Ruído Urbano 📢
+## 🔊 [Belém Silenciosa — Mapa Colaborativo do Ruído Urbano](https://github.com/albertoakel/Barulho_belem)
 
 Belém Silenciosa é um projeto de mapa interativo para registrar e visualizar pontos de poluição sonora na cidade de Belém (PA).
 A ferramenta transforma relatos individuais em dados coletivos, úteis para análise acadêmica e conscientização pública.
@@ -64,8 +64,9 @@ A ferramenta transforma relatos individuais em dados coletivos, úteis para aná
 ---
 ## 💉 😷 [Modelagem de Doenças Endêmicas](https://github.com/albertoakel/Endemic_model)
 
-Este projeto reúne implementações dos principais modelos compartimentais (SIR, SEIR, SEIAR, SEIARD) aplicados à modelagem de doenças infecciosas.
-
+Ajuste de modelos dinâmicos não-lineares via problemas inversos,
+utilizando dados reais da COVID-19. Implementação completa desde
+ODEs até inferência estatística e comparação de métodos de otimização.
 ---
 
 ## Em desenvimento inicial
