@@ -11,7 +11,11 @@ Sou geofísico, com mestrado em Geofísica e doutorado em Engenharia Elétrica. 
 Neste portfólio, apresento projetos desenvolvidos a partir de problemas reais, desafios do Kaggle e iniciativas autorais, com ênfase na análise, modelagem e interpretação de dados
 
 ---
+## 🚛 [Coleta de Lixo e Descarte Irregular em Belém-PA](https://github.com/albertoakel/data_ambiental)
 
+Este projeto é desenvolvido para o Instituto I2A2 e tem como objetivo organizar, processar e visualizar dados sobre coleta de lixo e descarte irregular na cidade de Belém, Pará. Ele integra dados de setores de coleta, bairros e áreas geográficas para facilitar análise espacial e suporte à tomada de decisão.
+
+---
 ## 📚 [Coleção de Projetos Kaggle](https://github.com/albertoakel/Kaggle) 
 
 Este repositório reúne uma coleção curada de projetos baseados em **desafios e datasets do Kaggle**.  
@@ -27,8 +31,8 @@ Cada diretório contém:
 
 * ### [House Prices - Advanced Regression Techniques](https://github.com/albertoakel/Kaggle/tree/master/HousePrices)
 Previsão de preços de imóveis residenciais com técnicas de regressão.  
-**Última pontuação:** *[inserir quando disponível]*  
-* ### Titanic - Machine Learning from Disaster
+**Última pontuação:** *[14/11/2025 : 0.13202]*  
+* ### Titanic - Machine Learning from Disaster 
 * ### Brazilian E-Commerce Public Dataset by Olist
 
 ---
@@ -41,50 +45,6 @@ A análise desses dados permite identificar padrões associados à **rotatividad
 Compreender esses padrões é essencial para antecipar desligamentos e orientar ações de fidelização, como ofertas personalizadas, revisão de limites ou programas de pontos.  
 
 [more]( https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
-
-## Brazilian Payment Methods 💳
-
-The "Brazilian Payment Methods" dataset provides comprehensive monthly statistics on payment transactions in Brazil in its various forms, sourced from the Banco Central do Brasil (Banco Central do Brasil). This dataset is invaluable for researchers, analysts and policymakers interested in understanding the dynamics of payment methods in Brazil's financial ecosystem.
-It is possible to follow the evolution of different payment methods over time, such as the rise of PIX in contrast to the decline of methods such as DOC. This allows for a detailed analysis of how the adoption and use of different payment instruments has changed over the years.
-
-[more]( https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods/data)
-
-
-link:
----
-## Ocorrências Aeronáuticas na Aviação Civil Brasileira ✈️
-O governo brasileiro disponibiliza vários datasets sobre os principais órgãos do governo (como ANP, FAB, Anatel, Anvisa, entre outros) através do dados.gov.br, o que também é feito pelo governo dos Estados Unidos no data.gov, pelo Canadá em open.canada.ca e por vários outros países.
-
-Uma dessas bases é a de ocorrências aeronáuticas notificadas ao CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos) no anos de 2010 a 2021 que ocorreram em solo brasileiro.
-
-Como os dados estão organizados na forma de tabelas que se relacionam (como mostrado abaixo), essa é uma ótima oportunidade para apresentar sua capacidade de relacionar tabelas (utilizando o merge por exemplo), agregar informações, utilizar Pareto para buscar principais ofensores e até até analisar como essas ocorrências estão se comportando no tempo (tem aumentado? diminuido? alguma ocorrência específica merece atenção?) já que temos dados de 2010 a 2021.
-
-Se você quiser avançar ainda mais nessa análise, você pode utilizar o sqlite3 para criar sua própria estrutura de dados e utilizar o SQL para tratar essa base e provar o seu conhecimento não só em Ciência de Dados como também em SQL.
-
-[more]( https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira)
-
-
----
-## Berlin marathon data analys 🏃
-
-Berlin marathon data
-Finish times and weather conditions in marathons from 1974 to 2019h
-
-[more]( http://www.kaggle.com/datasets/aiaiaidavid/berlin-marathons-data)
-
----
-## TWO_CENTURIES_OF_UM_RACES 🏃
-This dataset contains information on long-distance running events held in various places, including event dates, names, participant counts, athlete performance times, age categories, speeds, and birth years. It provides insights into the demographic and performance characteristics of urban marathons over two centuries.
-
-[more]( https://www.kaggle.com/datasets/fatihyavuzz/two-centuries-of-um-races)
-
-
----
-## Brazilian Soccer Database ⚽
-This dataset consists of collecting the history and current data of all the most important competitions that Brazilian teams compete, the principal competitions are
-
-[more]( https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro)
-
 ---
 ##  Dashboard de Desempenho para Corrida 🏃
 
@@ -102,40 +62,88 @@ A ferramenta transforma relatos individuais em dados coletivos, úteis para aná
 ▶️ Teste o protótipo: [barulhobelem.streamlit.streamlit.app](https://barulhobelem.streamlit.app/)
 
 ---
-## Modelagem de Doenças Endêmicas — Modelos Compartimentais  💉
+## 💉 😷 [Modelagem de Doenças Endêmicas](https://github.com/albertoakel/Endemic_model)
 
 Este projeto reúne implementações dos principais modelos compartimentais (SIR, SEIR, SEIAR, SEIARD) aplicados à modelagem de doenças infecciosas.
+
 ---
-## 🌍 English Summary
-### Kaggle Projects Collection
 
-This repository offers a curated collection of Kaggle-based projects covering EDA, machine learning models, and reproducible analytics.
+## Em desenvimento inicial
+* ⏳ Brazilian Payment Methods 💳 []
+* ⏳ Ocorrências Aeronáuticas na Aviação Civil Brasileira ✈️
+* ⏳ Berlin marathon data analys 🏃
+* ⏳ TWO_CENTURIES_OF_UM_RACES 🏃
+* ⏳ Brazilian Soccer Database ⚽
 
-Included:
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (The "Brazilian Payment Methods" dataset provides comprehensive monthly statistics on payment transactions in Brazil in its various forms, sourced from the Banco Central do Brasil &#40;Banco Central do Brasil&#41;. This dataset is invaluable for researchers, analysts and policymakers interested in understanding the dynamics of payment methods in Brazil's financial ecosystem.)
 
-House Prices (regression)
+[//]: # (It is possible to follow the evolution of different payment methods over time, such as the rise of PIX in contrast to the decline of methods such as DOC. This allows for a detailed analysis of how the adoption and use of different payment instruments has changed over the years.)
 
-Future projects: Titanic, Digit Recognizer, Netflix Data, Spaceship Titanic, etc.
+[//]: # ()
+[//]: # ([more]&#40; https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods/data&#41;)
 
-### Run Metrics Dashboard
+[//]: # ()
+[//]: # ()
+[//]: # (---)
 
-Streamlit-based dashboard for analyzing running performance, supporting:
+[//]: # (## ⏳ Ocorrências Aeronáuticas na Aviação Civil Brasileira ✈️)
 
-Threshold pace estimation (20-min & 30-min tests)
+[//]: # (O governo brasileiro disponibiliza vários datasets sobre os principais órgãos do governo &#40;como ANP, FAB, Anatel, Anvisa, entre outros&#41; através do dados.gov.br, o que também é feito pelo governo dos Estados Unidos no data.gov, pelo Canadá em open.canada.ca e por vários outros países.)
 
-VDOT-based tests (3 km & 5 km)
+[//]: # ()
+[//]: # (Uma dessas bases é a de ocorrências aeronáuticas notificadas ao CENIPA &#40;Centro de Investigação e Prevenção de Acidentes Aeronáuticos&#41; no anos de 2010 a 2021 que ocorreram em solo brasileiro.)
 
-Strava/Garmin integration (in development)
+[//]: # ()
+[//]: # (Como os dados estão organizados na forma de tabelas que se relacionam &#40;como mostrado abaixo&#41;, essa é uma ótima oportunidade para apresentar sua capacidade de relacionar tabelas &#40;utilizando o merge por exemplo&#41;, agregar informações, utilizar Pareto para buscar principais ofensores e até até analisar como essas ocorrências estão se comportando no tempo &#40;tem aumentado? diminuido? alguma ocorrência específica merece atenção?&#41; já que temos dados de 2010 a 2021.)
 
-### Belém Silenciosa
+[//]: # ()
+[//]: # (Se você quiser avançar ainda mais nessa análise, você pode utilizar o sqlite3 para criar sua própria estrutura de dados e utilizar o SQL para tratar essa base e provar o seu conhecimento não só em Ciência de Dados como também em SQL.)
 
-Collaborative urban noise mapping tool designed to crowdsource sound pollution reports in Belém, Brazil.
+[//]: # ()
+[//]: # ([more]&#40; https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira&#41;)
 
-### Endemic Models
+[//]: # ()
+[//]: # ()
+[//]: # (---)
 
-Collection of classical and extended compartmental models (SIR, SEIR, SEIARD) for simulating and fitting endemic scenarios.
+[//]: # (## ⏳ Berlin marathon data analys 🏃)
 
-## 📜 Licença
+[//]: # ()
+[//]: # (Berlin marathon data)
 
-Distribuído sob a [Licença MIT](LICENSE).  
-Você pode usar, modificar e compartilhar com os devidos créditos.
+[//]: # (Finish times and weather conditions in marathons from 1974 to 2019h)
+
+[//]: # ()
+[//]: # ([more]&#40; http://www.kaggle.com/datasets/aiaiaidavid/berlin-marathons-data&#41;)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # (## ⏳ TWO_CENTURIES_OF_UM_RACES 🏃)
+
+[//]: # (This dataset contains information on long-distance running events held in various places, including event dates, names, participant counts, athlete performance times, age categories, speeds, and birth years. It provides insights into the demographic and performance characteristics of urban marathons over two centuries.)
+
+[//]: # ()
+[//]: # ([more]&#40; https://www.kaggle.com/datasets/fatihyavuzz/two-centuries-of-um-races&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (---)
+
+[//]: # (## ⏳ Brazilian Soccer Database ⚽)
+
+[//]: # (This dataset consists of collecting the history and current data of all the most important competitions that Brazilian teams compete, the principal competitions are)
+
+[//]: # ()
+[//]: # ([more]&#40; https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro&#41;)
+
+[//]: # ()
+[//]: # (## 📜 Licença)
+
+[//]: # ()
+[//]: # (Distribuído sob a [Licença MIT]&#40;LICENSE&#41;.  )
+
+[//]: # (Você pode usar, modificar e compartilhar com os devidos créditos.)
